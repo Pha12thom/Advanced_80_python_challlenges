@@ -1,4 +1,4 @@
-# Python 80 Days of Code
+# Advanced Python 80 Days of Code
 
 Welcome to Python 80 Days of Code! This is a journey where you'll dedicate yourself to coding in Python every day for 80 days, progressively building your skills and knowledge in the language.
 
