@@ -7,11 +7,11 @@ Today, i've built a classic game of Rock, Paper, Scissors using Python. This sim
 
 
 
-## Day 2:
-guess my song
+## Day 2: Guess my Song
+guess my favourite song
 
-## Day 3:
-Lading...............................
+## Day 3: Pay your 10 year Loan
+we calculated your 10 year loan and its time to pay
 
 
 ## Day 4:
