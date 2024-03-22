@@ -8,7 +8,7 @@ Today, i've built a classic game of Rock, Paper, Scissors using Python. This sim
 
 
 ## Day 2:
-Lading...............................
+guess my song
 
 ## Day 3:
 Lading...............................
