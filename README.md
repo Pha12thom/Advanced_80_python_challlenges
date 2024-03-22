@@ -14,9 +14,9 @@ guess my favourite song
 we calculated your 10 year loan and its time to pay
 
 
-## Day 4:
+## Day 4: play with i X i = II
 
-Lading...............................
+Lets see if youre good in maths
 
 
 ## Day 5:
