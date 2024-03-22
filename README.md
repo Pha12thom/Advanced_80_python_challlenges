@@ -8,15 +8,15 @@ Today, i've built a classic game of Rock, Paper, Scissors using Python. This sim
 
 
 ## Day 2: Guess my Song
-guess my favourite song
+guess my favourite song .😎
 
 ## Day 3: Pay your 10 year Loan
-we calculated your 10 year loan and its time to pay
+we calculated your 10 year loan and its time to pay😁
 
 
 ## Day 4: play with i X i = II
 
-Lets see if youre good in maths
+Are you good in multiplication 👵🕵️‍♀️
 
 
 ## Day 5:
