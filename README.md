@@ -13,13 +13,15 @@ guess my favourite song .😎
 ## Day 2: Pay your 10 year Loan
 we calculated your 10 year loan and its time to pay😁
 
+## Day 3: Find the range
+This is simple 🤩
 
-## Day 3: play with i X i = II
+## Day 4: play with i X i = II
 
 Are you good in multiplication 👵🕵️‍♀️
 
 
-## Day 4:
+## Day 5:
 
 Lading...............................
 
